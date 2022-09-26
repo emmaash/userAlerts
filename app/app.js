@@ -1,5 +1,6 @@
 $(document).ready(function() {
     console.log("ready");
+    console.log("this is another change");
 });
 
 $(window).on("load", function (){
